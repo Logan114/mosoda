@@ -6,9 +6,9 @@ public class Main {
         mosoda.hozzaad("Vágási Ferenc");
         mosoda.hozzaad("Szikszai Etus");
         mosoda.hozzaad("Takács Lenke");
-        mosoda.kiadas("Takács Lenke");
-        mosoda.hozzaad("Sümeghy Oszkár","ing",69);
+        mosoda.hozzaad("Sümeghy Oszkár", "ing", 69);
         mosoda.mosas("Sümeghy Oszkár");
+        mosoda.kiadas("Sümeghy Oszkár");
 
         System.out.println(mosoda);
     }
